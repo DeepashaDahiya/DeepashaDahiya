@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi there, I'm <your-name> 👋
+# Hi there, I'm Deepasha 👋
 
-### **<Your Title / Role>** · *<A 1-line punchy tagline about what you build/research>*
+### *<A Final-Year B.Tech CSE-AI Student at IGDTUW*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-username>)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-username>)
-[![Portfolio/Website](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://<your-website>.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<your-email>@gmail.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-username>]deepasha-dahiya-7b59b1239/)))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepashaDahiya)
+[![Portfolio/Website](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://[<your-website>](https://deepashadahiya.github.io/PortFolio/).com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dahiyadeepasha@gmail.com)
 
 ---
 
@@ -15,11 +15,11 @@
 
 ## 📌 About Me
 
-- 🔭 **Currently working on:** Building and optimizing machine learning models & web systems.
-- 🔬 **Research Interests / Focus:** Deep Learning, Remote Sensing & Computer Vision.
+- 🔭 **Currently working on:** Building and optimizing AI - Agent Based Projects & web systems.
+- 🔬 **Research Interests / Focus:** Deep Learning, Artificial Intelligence, Remote Sensing & Computer Vision.
 - 🌱 **Currently learning:** Advanced Transformers, MLOps & Distributed Systems.
 - 💬 **Ask me about:** Python, PyTorch, Data Pipelines, and Full-Stack Development.
-- ⚡ **Fun fact:** I debug code faster with coffee ☕.
+- ⚡ **Fun fact:** I wonder sometimes if i can build a whole world of mine, with coding🩹.
 
 ---
 
@@ -29,7 +29,7 @@
 
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
