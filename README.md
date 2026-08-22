@@ -1,10 +1,9 @@
 <div align="center">
-
 # Hi there, I'm Deepasha 👋
 
-### *<A Final-Year B.Tech CSE-AI Student at IGDTUW*
+### *A Final-Year B.Tech CSE-AI Student at IGDTUW*
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-username>]deepasha-dahiya-7b59b1239/)))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepasha-dahiya-7b59b1239/)))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepashaDahiya)
 [![Portfolio/Website](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://[<your-website>](https://deepashadahiya.github.io/PortFolio/).com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dahiyadeepasha@gmail.com)
