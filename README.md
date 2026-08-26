@@ -94,23 +94,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DeepashaDahiya&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0d1117" alt="GitHub Stats" width="410" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepashaDahiya&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" width="370" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepashaDahiya&theme=radical&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0d1117" alt="GitHub Streak" />
-</div>
-
----
 
 <div align="center">
   <p>🤝 <b>Open for collaborations on AI / ML Research & Full-Stack AI Products</b></p>
